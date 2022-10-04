@@ -8,5 +8,5 @@ else
 fi
 cd /telegram-bot
 pip3 install -U -r requirements.txt
-echo "Ｓｔａｒｔｉｎｇ ＫＵＴＴＵ ＢＯＴ．．．．．．．．．．．．．．．．．"
+echo "ꜱᴛᴀʀᴛɪɴɢ 𝓚𝓤𝓣𝓣𝓤 𝓑𝓞𝓣🤩🥵😎．"
 python3 bot.py
