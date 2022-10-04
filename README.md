@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-  <b>KUTTU Bot</b>
+  <b>𝓚𝓤𝓣𝓣𝓤 𝓑𝓞𝓣✔✔✔😁</b>
 </h1>
 
 
