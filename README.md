@@ -2,10 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THANKS+𝗧𝗢+CONTRIBUTORS+1.GOUTHAM+SIR;2.DARK+RIDER+OFFLINE!)</p>
 
-[![Stars](https://img.shields.io/github/stars/PbAjay/Vijay?style=flat-square&color=yellow)](https://github.com/killadichandu/telegram-bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/PbAjay/Vijay?style=flat-square&color=orange)](https://github.com/killadichandu/telegram-bot/fork)
+[![Stars](https://img.shields.io/github/stars/killadichandu/telegram-bot?style=flat-square&color=yellow)](https://github.com/killadichandu/telegram-bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/killadichandu/telegram-bot?style=flat-square&color=orange)](https://github.com/killadichandu/telegram-bot/fork)
   <p align="center">
-    <b>𝐊𝐮𝐭𝐭𝐮 𝐁𝐨𝐭 ✔✔✔😁</b>
+    <b>𝓚𝓤𝓣𝓣𝓤 𝓑𝓞𝓣✔✔✔😁</b>
 </h1>
 
 [![For Vaza](https://telegra.ph/file/a95bbb80738fd1c41b267.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
