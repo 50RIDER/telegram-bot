@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+KUTTU BOT!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KUTTU+BOT+TEAm!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+<p align="center">
+
 </p>
 <h1 align="center">
   <b>𝓚𝓤𝓣𝓣𝓤 𝓑𝓞𝓣✔✔✔😁</b>
