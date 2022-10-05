@@ -1,6 +1,6 @@
-![Typing SRG](https://readme-typing-srg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+KUTTU+BOT!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KUTTU+BOT+TEAM!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+KUTTU+BOT!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KUTTU+BOT+TEAM!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 
-![Typing SRG](https://readme-typing-srg.herokuapp.com/?lines=THANKS+𝗧𝗢+CONTRIBUTORS+1.GOUTHAM+SIR;2.DARK+RIDER+OFFLINE!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THANKS+𝗧𝗢+CONTRIBUTORS+1.GOUTHAM+SIR;2.DARK+RIDER+OFFLINE!)</p>
 <p align="center">
     <b>𝓚𝓤𝓣𝓣𝓤 𝓑𝓞𝓣✔✔✔😁</b>
 </h1>
