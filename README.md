@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠E+𝗧𝗢+KUTTU+BOT!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KUTTU+BOT+TEAM!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THANKS+𝗧𝗢+CONTRIBUTORS+®GOUTHAM;®DARK+RIDER+OFFLINE!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THANKS+𝗧𝗢+CONTRIBUTORS+®GOUTHAM+SER;®DARK+RIDER+OFFLINE!)</p>
 
 [![Stars](https://img.shields.io/github/stars/killadichandu/telegram-bot?style=flat-square&color=yellow)](https://github.com/killadichandu/telegram-bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/killadichandu/telegram-bot?style=flat-square&color=orange)](https://github.com/killadichandu/telegram-bot/fork)
