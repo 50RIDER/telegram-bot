@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/killadichandu/telegram-bot",
-    "repository": "https://github.com/killadichandu/telegram-bot",
+    "website": "https://github.com/GouthamSER/telegram-bot",
+    "repository": "https://github.com/GouthamSER/telegram-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
